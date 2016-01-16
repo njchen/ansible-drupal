@@ -3,9 +3,9 @@
 [![Latest Version](https://img.shields.io/github/release/netsensei/ansible-drupal.svg?style=flat-square)](https://github.com/netsensei/ansible-drupal/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
-## Ansible provisioning for Druapl
+## Ansible provisioning for Drupal
 
-This project provides [Ansible](http://www.ansible.com) provisinioning for easy/quick installation and configuration of a LAMP stack which supports [Drupal 8](http://drupal.org).
+This project provides [Ansible](http://www.ansible.com) provisinioning for easy/quick installation and configuration of a LAMP stack which supports [Drupal 8](http://drupal.org). This ansible playbook has been generated via [Phansible](phansible.com) and tweaked.
 
 
 ### Requirements
